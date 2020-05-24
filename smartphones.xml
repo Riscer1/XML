@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="smartphones.xslt"?>
+<!DOCTYPE smartphones SYSTEM "smartphones.dtd">
+
+
+<smartphones>
+	<smartphone type="Mi">
+		<name>Xiaomi Mi 8</name>
+		<display format="AMOLED">AMOLED 6,21"notch</display>
+		<processor>Snapdragon 845</processor>
+		<RAM>6 GB</RAM>
+		<camera mold="double">2x 12MPx</camera>
+		<photo>https://i.gadgets360cdn.com/products/large/1537349787_635_mi_8_fingerprint_main.jpg</photo>
+	</smartphone>
+	<smartphone type="MiNote">
+		<name>Xiaomi Mi Note 3</name>
+		<display format="IPS">IPS 5,5”</display>
+		<processor>Qualcomm Snapdragon 660 4×2,2 GHz i 4×1,84 GHz</processor>
+		<RAM>4/6 GB</RAM>
+		<camera mold="double">2×12 MPx</camera>
+		<photo>https://drop.ndtv.com/TECH/product_database/images/911201724413PM_635_xiaomi_mi_note_3_blue.jpeg</photo>
+	</smartphone>
+	<smartphone type="Mi">
+		<name>Xiaomi Mi 5</name>
+		<display format="IPS">IPS 5,15”</display>
+		<processor>Qualcomm Snapdragon 820 2×1,8 GHz i 2×1,36 GHz</processor>
+		<RAM>3 GB</RAM>
+		<camera mold="single">16 MPx</camera>
+		<photo>https://drop.ndtv.com/TECH/product_database/images/224201614903PM_635_xiaomi_mi_5_front_side.jpeg</photo>
+	</smartphone>
+	<smartphone type="MiMix">
+		<name>Xiaomi Mi Mix 2</name>
+		<display format="IPS">IPS 5,99”</display>
+		<processor>	Qualcomm Snapdragon 835 4×2,45 GHz i 4×1,9 GHz</processor>
+		<RAM>6 GB</RAM>
+		<camera mold="single">12 MPx</camera>
+		<photo>https://image.ceneostatic.pl/data/products/57941632/i-xiaomi-mi-mix-2-64gb-czarny.jpg</photo>
+	</smartphone>
+	<smartphone type="Mi">
+		<name>Xiaomi Mi A1</name>
+		<display format="LTPS">LTPS 5,5”</display>
+		<processor>Qualcomm Snapdragon 625 8×2 GHz</processor>
+		<RAM>4 GB</RAM>
+		<camera mold="double">2×12 MPx</camera>
+		<photo>https://image.ceneostatic.pl/data/products/55891951/f-xiaomi-mi-a1-64gb-zloty.jpg</photo>
+	</smartphone>
+	<smartphone type="MiNote">
+		<name>Xiaomi Mi Note 2</name>
+		<display format="AMOLED">Zakrzywiony AMOLED 5,7”</display>
+		<processor>Qualcomm Snapdragon 821 2×2,35 GHz i 2×1,6 GHz</processor>
+		<RAM>4/6 GB</RAM>
+		<camera mold="single">22,5 MPx</camera>
+		<photo>http://st1.bgr.in/wp-content/uploads/2016/10/f641164d92b4622f3c66b58e48c8dc8f_375x500_1.jpg</photo>
+	</smartphone>
+	<smartphone type="MiMix">
+		<name>Xiaomi Mi Mix</name>
+		<display format="IPS">IPS 6,4”</display>
+		<processor>	Qualcomm Snapdragon 821 2×2,35 GHz i 2×1,6 GHz</processor>
+		<RAM>4/6 GB</RAM>
+		<camera mold="single">16 MPx</camera>
+		<photo>https://cf5.s3.souqcdn.com/item/2017/11/24/28/30/31/16/item_XL_28303116_73512499.jpg</photo>
+	</smartphone>
+	<smartphone type="Mi">
+		<name>Xiaomi Mi 6</name>
+		<display format="IPS">IPS 5,15”</display>
+		<processor>Qualcomm Snapdragon 835 4×2,45 GHz i 4×1,9 GHz</processor>
+		<RAM>4/6 GB</RAM>
+		<camera mold="double">2×12 MPx</camera>
+		<photo>https://gloimg.gbtcdn.com/soa/gb/pdm-product-pic/Electronic/2017/04/20/goods_img_big-v1/20170420115915_49121.jpg</photo>
+	</smartphone>
+	<smartphone type="MiNote">
+		<name>Xiaomi Mi Note Pro</name>
+		<display format="IPS">IPS 5,7"</display>
+		<processor>Qualcomm Snapdragon 810 4×1,5 GHz i 4×2 GHz</processor>
+		<RAM>4 GB</RAM>
+		<camera mold="single">13 MPx</camera>
+		<photo>https://i01.appmifile.com/webfile/globalimg/en/goods/minote/overall-intro-slide-01-my.jpg</photo>
+	</smartphone>
+	<smartphone type="MiMix">
+		<name>Xiaomi Mi Mix 2S</name>
+		<display format="IPS">IPS 5,99”</display>
+		<processor>Qualcomm Snapdragon 845 4x2,8 GHz i 4x1,8 Ghz</processor>
+		<RAM>6/8GB</RAM>
+		<camera mold="double">2×12 MPx</camera>
+		<photo>https://image.ceneostatic.pl/data/products/59714342/i-xiaomi-mi-mix-2s-6-64gb-czarny.jpg</photo>
+	</smartphone>
+
+</smartphones>

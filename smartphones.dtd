@@ -1,0 +1,11 @@
+<!ELEMENT smartphones (smartphone+)>
+<!ATTLIST smartphone type (Mi | MiNote | MiMix) #REQUIRED>
+<!ELEMENT smartphone (name,display,processor,RAM,camera,photo)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT display (#PCDATA)>
+<!ATTLIST display format (AMOLED|IPS|LTPS) #REQUIRED>
+<!ELEMENT processor (#PCDATA)>
+<!ELEMENT RAM (#PCDATA)>
+<!ELEMENT camera (#PCDATA)>
+<!ATTLIST camera mold (single|double) #REQUIRED>
+<!ELEMENT photo (#PCDATA)>

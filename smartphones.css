@@ -1,0 +1,32 @@
+table{
+	border: 1px solid black;
+	margin: auto;
+}
+img{
+	width: 150px;
+	height: 150px;
+}
+body{
+	background-image: url(https://www.foto-net.pl/sklep/obrazki/tlo_fotograficzne_gnieciuch_26x3m_kolor_a62446_dcb8d5_18410130543.jpg)
+}
+td{
+	padding: 10px;
+	color: yellow;
+	text-align: center;
+	border: 1px solid brown;
+	font-size: 15px;
+	font-family: sans-serif;
+	font-style: italic;
+}
+th{
+	padding: 10px;
+	font-size: 20px;
+	text-align: center;
+	border: 1px solid brown;
+	text-decoration: underline;
+	font-family: monospace;
+	font-weight: bold;
+}
+h2{
+	text-align: center;
+}
